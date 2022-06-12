@@ -1,2 +1,2 @@
 # Certificates
-This Repository comprises of my Various Certificates that I got for complete Online Courses and for Extra Curricular Activity. 
+This Repository comprises of my Various Certificates that I got for completing Online Courses and for Extra Curricular Activity. 
